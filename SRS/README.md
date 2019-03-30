@@ -18,7 +18,7 @@
   - [Product Functions](#Product-Functions)
   - [User Characteristics](#User-Characteristics)
   - [Contraints](#Constraints)
-    - [Regulatory policies](#Regulatory policies)
+    - [Regulatory policies](#Regulatory-policies)
     - [Hardware limitations](#Hardware-limitations)
     - [Interfaces to other applications](#Interfaces-to-other-applications)
     - [Parallel operation](#Parallel-operation)
