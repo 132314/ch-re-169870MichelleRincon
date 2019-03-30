@@ -58,6 +58,10 @@
 
 # Introduction
   ## Purpose
+  The purpose of this document is to describe a solution for the grocery store "Central Chilera". This solution is to solve a need that arose within the establishment, which consists of a system that indicates the moment in which a client reaches his limit of credit and in that way the same system does not allow to enter more data.
+
+Solving this problem will speed up work time and avoid having problems with customers for exceeding the limit.
+  
   ## Scope  
   ## Definitions, acronymus, and abbreviations
   ## References
