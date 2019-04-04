@@ -63,6 +63,10 @@
 Solving this problem will speed up work time and avoid having problems with customers for exceeding the limit.
   
   ## Scope  
+This project consists of a system with the name of ***Credit*** which focuses on showing when a client reaches his limit of credit inside the store, therefore, it will be used by the accounting staff of this establishment.
+
+The person who interacts directly with the product will be the accounting assistant and person identified as the main stakeholder in the project, in the same way before reaching the data capture process, there are more people involved such as customers, distributors, the area of administration, etcetera.
+
   ## Definitions, acronymus, and abbreviations
   ## References
   ## Overview
