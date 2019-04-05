@@ -36,7 +36,7 @@ The person who interacts directly with the product will be the accounting assist
   ## Overview
 # Overall Description
   ## Product Perspective
-  El sistema consiste en una aplicacion de consulta la cual tendra altas durante cada cierre de mes (29-31 dias por mes). La aplicacion necesita comunicacion con una base de datos para mostrar las altas  que ha tenido cada cliente en relacion a los productos que ofrece el negocio, y de esa manera que no deje almacenar mas datos una vez que se llegue al limite de credito.
+  The system consists of a consultation application which will be high during each month's closing (29-31 days per month). The application needs communication with a database to show the highs that each client has had in relation to the products offered by the business, and in that way that does not allow to store more data once the credit limit is reached.
   
    ### System Interfaces
    ### User Interfaces
