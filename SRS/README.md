@@ -11,7 +11,9 @@ The person who interacts directly with the product will be the accounting assist
 
   ## Definitions, acronymus, and abbreviations
   **Credit limit**: "*The credit limit in a company is the maximum amount you can borrow from that company at any time. The credit provider will set your limit based on what you would like your limit to be and how much you can borrow.*".
+  
   **Invoice**: "*is a document submitted to a customer, identifying a transaction for which the customer owes payment to the issuer. This document represents an asset of the issuer and a liability of the customer*".
+  
   ## References
   * https://personal.hsbc.co.uk/credit-cards/what-is-a-credit-limit/
   * https://www.accountingtools.com/articles/2017/5/10/invoice
