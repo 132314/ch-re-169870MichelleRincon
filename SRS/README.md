@@ -2,6 +2,16 @@
   <h3 align="center"> Universidad Autonoma de Ciudad Juarez</h3>
   <h3 align="center"> División Multidisciplinaria de Ciudad Universitaria </h3>
   <h3 align="center"> Departamento de Ingeniería Electricidad y Computación </h3>
+  <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Escudo%20uacj%202015-color-sin%20fondo.png" height="280" width="280"></img></p>
+  <h3 align="center">SRS Document</h3>
+  <h3 align="center">By:</h3>
+  <h3 align="center">Tanya Michelle Rincon Tarango</h3>
+  <h3 align="center">169870</h3>
+  
+  <h3 align="center">Development of Software Requirements</h3>
+  <h3 align="center">April 2019</h3>
+  
+  
   
 # Introduction
   ## Purpose
