@@ -1,5 +1,72 @@
-# Table of Contents
-- [Introduction](#Introduction)
+# Introduction
+  ## Purpose
+  The purpose of this document is to describe a solution for the grocery store "Central Chilera". This solution is to solve a need that arose within the establishment, which consists of a system that indicates the moment in which a client reaches his limit of credit and in that way the same system does not allow to enter more data.
+
+Solving this problem will speed up work time and avoid having problems with customers for exceeding the limit.
+  
+  ## Scope  
+This project consists of a system with the name of ***Credit*** which focuses on showing when a client reaches his limit of credit inside the store, therefore, it will be used by the accounting staff of this establishment.
+
+The person who interacts directly with the product will be the accounting assistant and person identified as the main stakeholder in the project, in the same way before reaching the data capture process, there are more people involved such as customers, distributors, the area of administration, etcetera.
+
+  ## Definitions, acronymus, and abbreviations
+  **Credit limit**: "*The credit limit in a company is the maximum amount you can borrow from that company at any time. The credit provider will set your limit based on what you would like your limit to be and how much you can borrow.*".
+  **Invoice**: "*is a document submitted to a customer, identifying a transaction for which the customer owes payment to the issuer. This document represents an asset of the issuer and a liability of the customer*".
+  ## References
+  * https://personal.hsbc.co.uk/credit-cards/what-is-a-credit-limit/
+  * https://www.accountingtools.com/articles/2017/5/10/invoice
+  
+  ## Overview
+# Overall Description
+  ## Product Perspective
+   ### System Interfaces
+   ### User Interfaces
+   ### Hardware Interfaces
+   ### Software Interfaces
+   ### Communications Interfaces
+   ### Memory
+   ### Operations
+   ### Site adaptations requirements
+  ## Product Functions
+  ## User Characteristics
+  ## Constraints
+   ### Regulatory policies
+   ### Hardware limitations
+   ### Interfaces to other applications
+   ### Parallel operation
+   ### Audit functions
+   ### Control functions
+   ### Higher-order language requirements
+   ### Signal handshake protocols
+   ### Reliability requirements
+   ### Criticality of the application
+   ### Safety and security considerations
+  ## Assumptions and dependencies
+# Specific requirements
+  ## External Interfaces
+  ## Functions
+  ## Performance requirements
+  ## Logical database requirements
+  ## Design constraints
+   ### Standar compliance
+  ## Software system attributes
+   ### Realibility
+   ### Availability
+   ### Segurity
+   ### Maintiability
+   ### Portability
+ ## Organizing the specific requirements
+   ### System mode
+   ### User class
+   ### Objects
+   ### Feature
+   ### Stimulus
+   ### Response
+   ### Functional hyerarchy
+ ## Additional comments
+# Supporting Information
+ ## Table of contents and index
+ - [Introduction](#Introduction)
   - [Purpose](#Purpose)
   - [Scope](#Scope)
   - [Definitions, acronymus, and abbreviations](#Definitions,-acronymus,-and-abbreviations)
@@ -55,68 +122,4 @@
 - [Supporting Information](#Supporting-Information)
   - [Table of contents and index](#Table-of-contents-and-index)
   - [Appendixes](#Appendixes)
-
-# Introduction
-  ## Purpose
-  The purpose of this document is to describe a solution for the grocery store "Central Chilera". This solution is to solve a need that arose within the establishment, which consists of a system that indicates the moment in which a client reaches his limit of credit and in that way the same system does not allow to enter more data.
-
-Solving this problem will speed up work time and avoid having problems with customers for exceeding the limit.
-  
-  ## Scope  
-This project consists of a system with the name of ***Credit*** which focuses on showing when a client reaches his limit of credit inside the store, therefore, it will be used by the accounting staff of this establishment.
-
-The person who interacts directly with the product will be the accounting assistant and person identified as the main stakeholder in the project, in the same way before reaching the data capture process, there are more people involved such as customers, distributors, the area of administration, etcetera.
-
-  ## Definitions, acronymus, and abbreviations
-  ## References
-  ## Overview
-# Overall Description
-  ## Product Perspective
-   ### System Interfaces
-   ### User Interfaces
-   ### Hardware Interfaces
-   ### Software Interfaces
-   ### Communications Interfaces
-   ### Memory
-   ### Operations
-   ### Site adaptations requirements
-  ## Product Functions
-  ## User Characteristics
-  ## Constraints
-   ### Regulatory policies
-   ### Hardware limitations
-   ### Interfaces to other applications
-   ### Parallel operation
-   ### Audit functions
-   ### Control functions
-   ### Higher-order language requirements
-   ### Signal handshake protocols
-   ### Reliability requirements
-   ### Criticality of the application
-   ### Safety and security considerations
-  ## Assumptions and dependencies
-# Specific requirements
-  ## External Interfaces
-  ## Functions
-  ## Performance requirements
-  ## Logical database requirements
-  ## Design constraints
-   ### Standar compliance
-  ## Software system attributes
-   ### Realibility
-   ### Availability
-   ### Segurity
-   ### Maintiability
-   ### Portability
- ## Organizing the specific requirements
-   ### System mode
-   ### User class
-   ### Objects
-   ### Feature
-   ### Stimulus
-   ### Response
-   ### Functional hyerarchy
- ## Additional comments
-# Supporting Information
- ## Table of contents and index
  ## Appendixes
