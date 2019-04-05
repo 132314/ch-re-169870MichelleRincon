@@ -1,3 +1,8 @@
+
+  <h3 align="center"> Universidad Autonoma de Ciudad Juarez</h3>
+  <h3 align="center"> División Multidisciplinaria de Ciudad Universitaria </h3>
+  <h3 align="center"> Departamento de Ingeniería Electricidad y Computación </h3>
+  
 # Introduction
   ## Purpose
   The purpose of this document is to describe a solution for the grocery store "Central Chilera". This solution is to solve a need that arose within the establishment, which consists of a system that indicates the moment in which a client reaches his limit of credit and in that way the same system does not allow to enter more data.
