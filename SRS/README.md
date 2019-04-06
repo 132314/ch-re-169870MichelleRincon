@@ -37,7 +37,10 @@ The person who interacts directly with the product will be the accounting assist
 # Overall Description
   ## Product Perspective
   The system consists of a consultation application which will be high during each month's closing (29-31 days per month). The application needs communication with a database to show the highs that each client has had in relation to the products offered by the business, and in that way that does not allow to store more data once the credit limit is reached.
+  
   ## Product Functions
+  Before being able to use the system, the accounting assistant must have information such as the credit limit that the client has and the invoice of each purchase that he has made, and with this information he will be able to use the system to store in each invoice that the client has. and in case this exceeds its credit limit, the same system will launch an alert.
+  
   ## User Characteristics
   There is only one person who interacts directly with the product, but in turn the chief accountant and each client must have knowledge through reports of the information stored in the system.
   
@@ -49,12 +52,14 @@ The person who interacts directly with the product will be the accounting assist
   
   ## Constraints
   The knowledge of the accounting assistant who manages the system may be the only limitation, because although the interface is relatively simple and its use, it must have knowledge about the client's data and the credit limit that each one has.
+  
   ## Assumptions and dependencies
    | AS (Assumption) DE(Dependencies)| Description|
 | ------------- |:-------------:| 
 | AS-1| Only the assistent acounting.|
 | AS-2| The final interface will be a desktop application for computer.|
 | DE-1| Electricity for final device.|
+
 # Specific requirements
   ## External Interfaces
   ## Functions
