@@ -52,10 +52,9 @@ The person who interacts directly with the product will be the accounting assist
   
   | User| Description|
 | ------------- |:-------------:| 
-| End user | Can only use the application to find stocks of the product. This means that the user can only interact with and search the search interface. It is important that the product that is searched matches the data.      |
-| Owner| does not have to navigate in the application, its function will be to modify and update the products but will not have access to the change of ID unless it is a new product. | 
-| Administrador | will have access to the data, being able to modify it and confirm that the information is valid. |
-| Employers |They can make product delete and update the data|
+| Main Counter| You should receive a monthly report that mentions if a customer has reached your credit limit or how much was below the credit.|
+| Accounting assistant| It is the only person that interacts directly with the system, in charge of registering the consumption of each client.| 
+| Customers|Receive monthly reports regarding your consumption in the store and receive an alert in case you reach your credit limit.|
   
   ## Constraints
    ### Regulatory policies
