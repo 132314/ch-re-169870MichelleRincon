@@ -22,7 +22,7 @@ Solving this problem will speed up work time and avoid having problems with cust
   ## Scope  
 This project consists of a system with the name of ***Credit*** which focuses on showing when a client reaches his limit of credit inside the store, therefore, it will be used by the accounting staff of this establishment.
 
-The person who interacts directly with the product will be the accounting assistant and person identified as the main stakeholder in the project, in the same way before reaching the data capture process, there are more people involved such as customers, distributors, the area of administration, etcetera.
+The person who interacts directly with the product will be the accounting assistant and who is also the person identified as the main stakeholder, said person after using the product must submit a report to the chief accountant of the store. In the same way, before reaching the process of data capture, there are more people involved, such as customers, distributors, the administration area. , etc.
 
   ## Definitions, acronymus, and abbreviations
   **Credit limit**: "*The credit limit in a company is the maximum amount you can borrow from that company at any time. The credit provider will set your limit based on what you would like your limit to be and how much you can borrow.*".
@@ -48,6 +48,15 @@ The person who interacts directly with the product will be the accounting assist
    ### Site adaptations requirements
   ## Product Functions
   ## User Characteristics
+  There is only one person who interacts directly with the product, but in turn the chief accountant and each client must have knowledge through reports of the information stored in the system.
+  
+  | User| Description|
+| ------------- |:-------------:| 
+| End user | Can only use the application to find stocks of the product. This means that the user can only interact with and search the search interface. It is important that the product that is searched matches the data.      |
+| Owner| does not have to navigate in the application, its function will be to modify and update the products but will not have access to the change of ID unless it is a new product. | 
+| Administrador | will have access to the data, being able to modify it and confirm that the information is valid. |
+| Employers |They can make product delete and update the data|
+  
   ## Constraints
    ### Regulatory policies
    ### Hardware limitations
