@@ -62,28 +62,19 @@ The person who interacts directly with the product will be the accounting assist
 
 # Specific requirements
   ## External Interfaces
+  The ***Credit*** system has the purpose of alerting, by means of a message, when a client exceeds its credit limit. *Credit* is connected to a database in which the invoices of each client are stored and in turn gives the option to print or send the entered data. It is taken into account that each client has a credit limit of $ 300,000 Mexican pesos.
+
+The database contains as attributes the customer identity (id), name, product name that I buy and the total purchase amount.
+
   ## Functions
   ## Performance requirements
   ## Logical database requirements
   ## Design constraints
-   ### Standar compliance
   ## Software system attributes
-   ### Realibility
-   ### Availability
-   ### Segurity
-   ### Maintiability
-   ### Portability
- ## Organizing the specific requirements
-   ### System mode
-   ### User class
-   ### Objects
-   ### Feature
-   ### Stimulus
-   ### Response
-   ### Functional hyerarchy
- ## Additional comments
+  ## Organizing the specific requirements
+  ## Additional comments
 # Supporting Information
- ## Table of contents and index
+  ## Table of contents and index
  - [Introduction](#Introduction)
   - [Purpose](#Purpose)
   - [Scope](#Scope)
@@ -102,21 +93,8 @@ The person who interacts directly with the product will be the accounting assist
   - [Performance requirements](#Performance-requirements)
   - [Logical database requirements](#Logical-database-requirements)
   - [Design constraints](#Design-constraints)
-    - [Standar compliance](#Standar-compliance)
-  - [Software system attributes](#Software-system-attributes)
-    - [Realibility](#Realibility)
-    - [Availability](#Availability)
-    - [Segurity](#Segurity)
-    - [Maintiability](#Maintiability)
-    - [Portability](#Portability)
+ - [Software system attributes](#Software-system-attributes)
   - [Organizing the specific requirements](#Organizing-the-specific-requirements)
-    - [System mode](#System-mode)
-    - [User class](#User-class)
-    - [Objects](#Objects)
-    - [Feature](#Feature)
-    - [Stimulus](#Stimulus)
-    - [Response](#Response)
-    - [Functional hyerarchy](#Functional-hyerarchy)
   - [Additional comments](#Additional-comments)
 - [Supporting Information](#Supporting-Information)
   - [Table of contents and index](#Table-of-contents-and-index)
