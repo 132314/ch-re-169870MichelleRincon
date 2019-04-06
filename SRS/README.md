@@ -37,15 +37,6 @@ The person who interacts directly with the product will be the accounting assist
 # Overall Description
   ## Product Perspective
   The system consists of a consultation application which will be high during each month's closing (29-31 days per month). The application needs communication with a database to show the highs that each client has had in relation to the products offered by the business, and in that way that does not allow to store more data once the credit limit is reached.
-  
-   ### System Interfaces
-   ### User Interfaces
-   ### Hardware Interfaces
-   ### Software Interfaces
-   ### Communications Interfaces
-   ### Memory
-   ### Operations
-   ### Site adaptations requirements
   ## Product Functions
   ## User Characteristics
   There is only one person who interacts directly with the product, but in turn the chief accountant and each client must have knowledge through reports of the information stored in the system.
@@ -57,18 +48,13 @@ The person who interacts directly with the product will be the accounting assist
 | Customers|Receive monthly reports regarding your consumption in the store and receive an alert in case you reach your credit limit.|
   
   ## Constraints
-   ### Regulatory policies
-   ### Hardware limitations
-   ### Interfaces to other applications
-   ### Parallel operation
-   ### Audit functions
-   ### Control functions
-   ### Higher-order language requirements
-   ### Signal handshake protocols
-   ### Reliability requirements
-   ### Criticality of the application
-   ### Safety and security considerations
+  The knowledge of the accounting assistant who manages the system may be the only limitation, because although the interface is relatively simple and its use, it must have knowledge about the client's data and the credit limit that each one has.
   ## Assumptions and dependencies
+   | AS (Assumption) DE(Dependencies)| Description|
+| ------------- |:-------------:| 
+| AS-1| Only the assistent acounting.|
+| AS-2| The final interface will be a desktop application for computer.|
+| DE-1| Electricity for final device.|
 # Specific requirements
   ## External Interfaces
   ## Functions
@@ -101,28 +87,9 @@ The person who interacts directly with the product will be the accounting assist
   - [Overview](#Overview)
 - [Overall Description](#Overall-Description)
   - [Product Perspective](#Product-Perspective)
-    - [System Interfaces](#System-Interfaces)
-    - [User Interfaces](#User-Interfaces)
-    - [Hardware Interfaces](#Hardware-Interfaces)
-    - [Software Interfaces](#Software-Interfaces)
-    - [Communications Interfaces](#Communications-Interfaces)
-    - [Memory](#Memory)
-    - [Operations](#Operations)
-    - [Site adaptations requirements](#Site-adaptations-requirements)
   - [Product Functions](#Product-Functions)
   - [User Characteristics](#User-Characteristics)
   - [Contraints](#Constraints)
-    - [Regulatory policies](#Regulatory-policies)
-    - [Hardware limitations](#Hardware-limitations)
-    - [Interfaces to other applications](#Interfaces-to-other-applications)
-    - [Parallel operation](#Parallel-operation)
-    - [Audit functions](#Audit-functions)
-    - [Control functions](#Control-functions)
-    - [Higher-order language requirements](#Higher-order-language-requirements)
-    - [Signal handshake protocols](#Signal-handshake-protocols)
-    - [Reliability requirements](#Reliability-requirements)
-    - [Criticality of the application](#Criticality-of-the-application)
-    - [Safety and security considerations](#Safety-and-security-considerations)
   - [Assumptions and dependencies](#Assumptions-and-dependencies)
 - [Specific requirements](#Specific-requirements)
   - [External Interfaces](#External-Interfaces)
