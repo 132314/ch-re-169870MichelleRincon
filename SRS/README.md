@@ -77,6 +77,10 @@ For this, you need to follow a series of data:
 4.  You will have the option to print the information collected.
   
   ## Performance requirements
+* *The system will be designed to support connection between maximum two machines.*
+* *Only one person can use the system simultaneously.*
+* *You will receive numeric and string data for the name of the clients.*
+  
   ## Logical database requirements
   ## Design constraints
   ## Software system attributes
