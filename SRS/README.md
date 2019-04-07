@@ -67,6 +67,15 @@ The person who interacts directly with the product will be the accounting assist
 The database contains as attributes the customer identity (id), name, product name that I buy and the total purchase amount.
 
   ## Functions
+  The system should allow the accounting assistant to capture information obtained from all the invoices held by each client.
+
+For this, you need to follow a series of data:
+
+1.  Record the sales data of the clients.
+2.  The information will be stored in a database.
+3.  In case the client exceeds his credit limit, an alert window will open.
+4.  You will have the option to print the information collected.
+  
   ## Performance requirements
   ## Logical database requirements
   ## Design constraints
