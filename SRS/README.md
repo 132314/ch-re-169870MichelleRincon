@@ -82,6 +82,17 @@ For this, you need to follow a series of data:
 * *You will receive numeric and string data for the name of the clients.*
   
   ## Logical database requirements
+  The database with which the system will be linked will have the following attributes in a ***client table***:
+* Customer id (primary key)
+* Customer name
+* Product name (forean key)
+* Product Id
+* Total amount
+
+It is intended to link the client table with a ***product table*** in which the following attributes are shown:
+* Product Id (primary key)
+* Product name
+  
   ## Design constraints
   ## Software system attributes
   ## Organizing the specific requirements
