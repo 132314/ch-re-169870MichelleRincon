@@ -83,9 +83,9 @@ For this, you need to follow a series of data:
   
   ## Logical database requirements
   ## Design constraints
-  ## Software system attributes
-  ## Organizing the specific requirements
-  ## Additional comments
+# Software system attributes
+# Organizing the specific requirements
+# Additional comments
 # Supporting Information
   ## Table of contents and index
  - [Introduction](#Introduction)
