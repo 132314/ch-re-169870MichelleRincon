@@ -97,6 +97,10 @@ It is intended to link the client table with a ***product table*** in which the 
   The only restriction that can exist in the system is that it is not possible to link in more than one machine.
   
   ## Software system attributes
+  Use of the Spanish language
+Use of a Windows operating system.
+Programmed in the java programming language to be portable in the machines.
+  
   ## Organizing the specific requirements
   ## Additional comments
 # Supporting Information
