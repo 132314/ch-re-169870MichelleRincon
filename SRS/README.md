@@ -56,7 +56,7 @@ The person who interacts directly with the product will be the accounting assist
   ## Assumptions and dependencies
    | AS (Assumption) DE(Dependencies)| Description|
 | ------------- |:-------------:| 
-| AS-1| Only the assistent acounting.|
+| AS-1| Only the acounting assistent.|
 | AS-2| The final interface will be a desktop application for computer.|
 | DE-1| Electricity for final device.|
 
