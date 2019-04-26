@@ -42,6 +42,7 @@ The person who interacts directly with the product will be the accounting assist
   Before being able to use the system, the accounting assistant must have information such as the credit limit that the client has and the invoice of each purchase that he has made, and with this information he will be able to use the system to store in each invoice that the client has. and in case this exceeds its credit limit, the same system will launch an alert.
   
   ## Functional Requirements Specification
+   ### Use Case: General
   
   ## User Characteristics
   There is only one person who interacts directly with the product, but in turn the chief accountant and each client must have knowledge through reports of the information stored in the system.
@@ -117,6 +118,7 @@ Programmed in the java programming language to be portable in the machines.
   - [Product Perspective](#Product-Perspective)
   - [Product Functions](#Product-Functions)
   - [Functional Requirements Specification](#Functional-Requirements-Specification)
+    - [Use Case: General](#Use-Case:-General)
   - [User Characteristics](#User-Characteristics)
   - [Contraints](#Constraints)
   - [Assumptions and dependencies](#Assumptions-and-dependencies)
