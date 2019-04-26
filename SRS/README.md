@@ -44,6 +44,16 @@ The person who interacts directly with the product will be the accounting assist
   ## Functional Requirements Specification
    ### Use Case: General
    <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/General%20Use%20Case.jpg" height=85% width=85%></img></p>
+   
+   | Name: | Credit System|
+   | ------------- |:-------------:| 
+   | Author: | Tanya Michelle Rincon Tarango |
+   | Date: | 4/25/19 |
+   | Brief Description|  The application needs communication with a database to show the highs that each client has had in relation to the products offered by the business, and in that way that does not allow to store more data once the credit limit is reached. |
+   | Actors: | Main Counter, Accounting assistant and Customers. |
+   | Preconditions: | Before being able to use the system, the accounting assistant must have information such as the credit limit that the client has and the invoice of each purchase that he has made. |
+   | Normal Flow: | |
+   
   
   ## User Characteristics
   There is only one person who interacts directly with the product, but in turn the chief accountant and each client must have knowledge through reports of the information stored in the system.
