@@ -43,6 +43,7 @@ The person who interacts directly with the product will be the accounting assist
   
   ## Functional Requirements Specification
    ### Use Case: General
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/General%20Use%20Case.jpg" height=85% width=85%></img></p>
   
   ## User Characteristics
   There is only one person who interacts directly with the product, but in turn the chief accountant and each client must have knowledge through reports of the information stored in the system.
