@@ -56,11 +56,32 @@ The person who interacts directly with the product will be the accounting assist
       <tr><td>Brief Description: </td><td>The application needs communication with a database to show the highs that each client has had in relation to the products offered by the business, and in that way that does not allow to store more data once the credit limit is reached. </td></tr>
       <tr><td>Actors: </td><td> Main Counter, Accounting assistant and Customers. </td></tr>
       <tr><td>Preconditions: </td><td>Before being able to use the system, the accounting assistant must have information such as the credit limit that the client has and the invoice of each purchase that he has made.</td></tr>
-      <tr><td>Normal Flow: </td><td></td></tr>
-      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td>Normal Flow: </td><td> <table align = "center">
+    <thead>
+      <tr><td>Main Counter</td><td>Accounting assistant</td><td>Customer</td></tr>
+    </thead>
+    <tbody>
+      <tr><td>1. Collect customer data</td><td>4. Collect customer invoices.</td><td>Know your credit limit.</td></tr>
+      <tr><td>2. Defines the customer's credit limit.</td><td>5. Enter the invoices in the system.</td><td>8. Receives final report</td></tr>
+      <tr><td>7. Receives final report</td><td>6. Send the final report to the main accountant and then to the customer.</td><td></td></tr>
     </tbody>
     <tfoot>
-      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    </tfoot>
+  </table></td></tr>
+      <tr><td>Alternative flow: </td><td> <table align = "center">
+    
+   <thead>
+      <tr><td>Main Counter</td><td>Accounting assistant</td><td>Customer</td></tr>
+    </thead>
+    <tbody>
+      <tr><td></td><td>If the client exceeds the credit limit can not enter more data.</td><td>If you exceed your credit limit you receive a notice.</td></tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table></td></tr>
+  <tr><td>Postconditions</td><td>All customer purchases will be stored for future procedures and / or clarifications.</td></tr>
+    </tbody>
+    <tfoot>
     </tfoot>
   </table>
 
