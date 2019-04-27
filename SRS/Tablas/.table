@@ -1,0 +1,17 @@
+ <table>
+    <caption></caption>
+    <thead>
+      <tr><th></th><th></th><th></th><th></th><th></th></tr>
+    </thead>
+    <tbody>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    </tbody>
+    <tfoot>
+      <tr><td></td><td></td><td></td><td>Total:</td><td>₡8.275,00</td></tr>
+    </tfoot>
+  </table>
