@@ -45,23 +45,41 @@ The person who interacts directly with the product will be the accounting assist
    ### Use Case: General
    <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/General%20Use%20Case.jpg" height=85% width=85%></img></p>
    
-   | Name: | Credit System|
-   | ------------- |:-------------:| 
-   | Author: | Tanya Michelle Rincon Tarango |
-   | Date: | 4/25/19 |
-   | Brief Description|  The application needs communication with a database to show the highs that each client has had in relation to the products offered by the business, and in that way that does not allow to store more data once the credit limit is reached. |
-   | Actors: | Main Counter, Accounting assistant and Customers. |
-   | Preconditions: | Before being able to use the system, the accounting assistant must have information such as the credit limit that the client has and the invoice of each purchase that he has made. |
-   | Normal Flow: | |
+   <table>
+    <caption></caption>
+    <thead>
+    </thead>
+    <tbody>
+      <tr><td>Name: </td><td>Credit System</td></tr>
+      <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
+      <tr><td>Date: </td><td>4/25/19</td></tr>
+      <tr><td>Brief Description: </td><td>The application needs communication with a database to show the highs that each client has had in relation to the products offered by the business, and in that way that does not allow to store more data once the credit limit is reached. </td></tr>
+      <tr><td>Actors: </td><td> Main Counter, Accounting assistant and Customers. </td></tr>
+      <tr><td>Preconditions: </td><td>Before being able to use the system, the accounting assistant must have information such as the credit limit that the client has and the invoice of each purchase that he has made.</td></tr>
+      <tr><td>Normal Flow: </td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    </tbody>
+    <tfoot>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    </tfoot>
+  </table>
 
   ## User Characteristics
   There is only one person who interacts directly with the product, but in turn the chief accountant and each client must have knowledge through reports of the information stored in the system.
-  
-  | User| Description|
-| ------------- |:-------------:| 
-| Main Counter| You should receive a monthly report that mentions if a customer has reached your credit limit or how much was below the credit.|
-| Accounting assistant| It is the only person that interacts directly with the system, in charge of registering the consumption of each client.| 
-| Customers|Receive monthly reports regarding your consumption in the store and receive an alert in case you reach your credit limit.|
+
+ <table>
+    <thead>
+      <tr><th>User</th><th>Description</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Main Counter</td><td>You should receive a monthly report that mentions if a customer has reached your credit limit or how much was below the credit.</td></tr>
+      <tr><td>Accounting assistant</td><td>It is the only person that interacts directly with the system, in charge of registering the consumption of each client.</td></tr>
+      <tr><td>Customers</td><td>Receive monthly reports regarding your consumption in the store and receive an alert in case you reach your credit limit.</td></tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
+
   
   ## Constraints
   The knowledge of the accounting assistant who manages the system may be the only limitation, because although the interface is relatively simple and its use, it must have knowledge about the client's data and the credit limit that each one has.
