@@ -172,11 +172,31 @@ The person who interacts directly with the product will be the accounting assist
       <tr><td>Name: </td><td>Know your credit limit.</td></tr>
       <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
       <tr><td>Date: </td><td>4/27/19</td></tr>
-      <tr><td>Brief Description: </td><td></td></tr>
-      <tr><td>Preconditions: </td><td></td></tr>
-      <tr><td>Normal Flow: </td><td></td></tr>
-      <tr><td>Alternative flow: </td><td> </td></tr>
-  <tr><td>Postconditions</td><td></td></tr>
+      <tr><td>Brief Description: </td><td>The main accountant should show you what your credit limit will be.</td></tr>
+      <tr><td>Preconditions: </td><td>The credit limit must already be defined and approved by the main accountant.</td></tr>
+      <tr><td>Normal Flow: </td>
+        <td>
+            <table>
+              <thead></thead>
+              <tbody>
+                <tr><td>The main accountant offers you the credit limit that he considers acceptable.</td></tr>
+                <tr><td>The customer makes the decision to accept or reject the offer.</td></tr>
+              </tbody>
+              <tfoot></tfoot>
+            </table>
+        </td></tr>
+      <tr><td>Alternative flow: </td>
+        <td> 
+            <table>
+              <thead></thead>
+              <tbody>
+                <tr><td>If the main accountant is not available, the accounting assistant can give the offer to the client.</td></tr>
+                <tr><td>If the client <b>rejects</b> the offer, others are made until an agreement is reached.</td></tr>
+              </tbody>
+              <tfoot></tfoot>
+            </table>         
+        </td></tr>
+      <tr><td>Postconditions: </td><td>The customer can reject or accept the credit limit offered by the main accountant.</td></tr>
     </tbody>
     <tfoot>
     </tfoot>
