@@ -12,6 +12,19 @@
       <tr><td></td><td></td><td></td><td></td><td></td></tr>
     </tbody>
     <tfoot>
-      <tr><td></td><td></td><td></td><td>Total:</td><td>₡8.275,00</td></tr>
+      <tr><td></td><td></td><td></td><td>Total:</td><td></td></tr>
     </tfoot>
+  </table>
+  
+  
+  <table>
+    <thead></thead>
+    <tbody>
+      <tr><td> </td></tr>
+      <tr><td> </td></tr>
+      <tr><td> </td></tr>
+      <tr><td> </td></tr>
+      <tr><td> </td></tr>
+    </tbody>
+    <tfoot></tfoot>
   </table>
