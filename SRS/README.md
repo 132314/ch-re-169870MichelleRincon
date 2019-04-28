@@ -42,7 +42,7 @@ The person who interacts directly with the product will be the accounting assist
   Before being able to use the system, the accounting assistant must have information such as the credit limit that the client has and the invoice of each purchase that he has made, and with this information he will be able to use the system to store in each invoice that the client has. and in case this exceeds its credit limit, the same system will launch an alert.
   
   ## Functional Requirements Specification
-   ### Use Case: General
+   ### General Use Case 
    <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/General%20Use%20Case.jpg" height=80% width=80%></img></p>
    
    <table>
@@ -309,7 +309,7 @@ Programmed in the java programming language to be portable in the machines.
   - [Product Perspective](#Product-Perspective)
   - [Product Functions](#Product-Functions)
   - [Functional Requirements Specification](#Functional-Requirements-Specification)
-   - [Use Case: General](#Use-Case-:-General)
+     - [General Use Case ](#General-Use-Case)
      - [Specific use case 1](#Specific-use-case-1)
      - [Specific use case 2](#Specific-use-case-2)
      - [Specific use case 3](#Specific-use-case-3)
