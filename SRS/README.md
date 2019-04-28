@@ -133,14 +133,32 @@ The person who interacts directly with the product will be the accounting assist
       <tr><td>Name: </td><td>Defines the customer's credit limit.</td></tr>
       <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
       <tr><td>Date: </td><td>4/27/19</td></tr>
-      <tr><td>Brief Description: </td><td></td></tr>
-      <tr><td>Preconditions: </td><td></td></tr>
-      <tr><td>Normal Flow: </td><td></td></tr>
-      <tr><td>Alternative flow: </td><td> </td></tr>
-      <tr><td>Postconditions</td><td></td></tr>
+      <tr><td>Brief Description: </td><td>Before making any purchase, a credit limit must be assigned to the customer.</td></tr>
+      <tr><td>Preconditions: </td><td>Data collection</td></tr>
+      <tr><td>Normal Flow: </td>
+        <td>
+            <table>
+                <thead></thead>
+                <tbody>
+                  <tr><td>Review again the information collected.</td></tr>
+                  <tr><td>If the client is suitable, the main accountant should define a credit limit.</td></tr>
+                </tbody>
+                <tfoot></tfoot>
+              </table>
+        </td></tr>
+      <tr><td>Alternative flow: </td>
+        <td> 
+            <table>
+                <thead></thead>
+                <tbody>
+                  <tr><td>**ONLY** the main accountant can define credit limit.</td></tr>
+                </tbody>
+                <tfoot></tfoot>
+              </table>
+        </td></tr>
+      <tr><td>Postconditions</td><td>The client must know this information.</td></tr>
     </tbody>
-    <tfoot>
-    </tfoot>
+    <tfoot></tfoot>
   </table>
    
    ### Specific use case 3
