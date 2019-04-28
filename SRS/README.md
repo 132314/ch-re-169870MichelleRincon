@@ -43,7 +43,7 @@ The person who interacts directly with the product will be the accounting assist
   
   ## Functional Requirements Specification
    ### Use Case: General
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/use%20case%20general.png" height=80% width=80%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/General%20Use%20Case.jpg" height=80% width=80%></img></p>
    
    <table>
     <caption></caption>
@@ -84,6 +84,35 @@ The person who interacts directly with the product will be the accounting assist
     <tfoot>
     </tfoot>
   </table>
+  
+   ### Specific use case 1
+   
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case1.jpg" height=50% width=50%></img></p>
+   
+   ### Specific use case 2
+   
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case2.jpg" height=50% width=50%></img></p>
+   
+   ### Specific use case 3
+   
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case3.jpg" height=50% width=50%></img></p>
+   
+   ### Specific use case 4
+   
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case4.jpg" height=50% width=50%></img></p>
+   
+   ### Specific use case 5
+   
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case5.jpg" height=50% width=50%></img></p>
+   
+   ### Specific use case 6
+   
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case6.jpg" height=50% width=50%></img></p>
+   
+   ### Specific use case 7
+   
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case7.jpg" height=50% width=50%></img></p>
+    
 
   ## User Characteristics
   There is only one person who interacts directly with the product, but in turn the chief accountant and each client must have knowledge through reports of the information stored in the system.
@@ -168,6 +197,13 @@ Programmed in the java programming language to be portable in the machines.
   - [Product Functions](#Product-Functions)
   - [Functional Requirements Specification](#Functional-Requirements-Specification)
     - [Use Case: General](#Use-Case:-General)
+     - [Specific use case 1](#Specific-use-case-1)
+     - [Specific use case 2](#Specific-use-case-2)
+     - [Specific use case 3](#Specific-use-case-3)
+     - [Specific use case 4](#Specific-use-case-4)
+     - [Specific use case 4](#Specific-use-case-5)
+     - [Specific use case 6](#Specific-use-case-6)
+     - [Specific use case 7](#Specific-use-case-7)
   - [User Characteristics](#User-Characteristics)
   - [Contraints](#Constraints)
   - [Assumptions and dependencies](#Assumptions-and-dependencies)
