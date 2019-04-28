@@ -212,11 +212,21 @@ The person who interacts directly with the product will be the accounting assist
       <tr><td>Name: </td><td>Collect customer invoices.</td></tr>
       <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
       <tr><td>Date: </td><td>4/27/19</td></tr>
-      <tr><td>Brief Description: </td><td></td></tr>
-      <tr><td>Preconditions: </td><td></td></tr>
-      <tr><td>Normal Flow: </td><td></td></tr>
-      <tr><td>Alternative flow: </td><td> </td></tr>
-  <tr><td>Postconditions</td><td></td></tr>
+      <tr><td>Brief Description: </td><td>The customer invoices are delivered to the accounting assistant.</td></tr>
+      <tr><td>Preconditions: </td><td>The customer must make some purchases and each must have an invoice.</td></tr>
+      <tr><td>Normal Flow: </td>
+        <td>
+          <table>
+            <thead></thead>
+            <tbody>
+              <tr><td>The invoices are delivered to the accounting assistant.</td></tr>
+              <tr><td>The accounting assistant must order the invoices according to the date.</td></tr>
+            </tbody>
+            <tfoot></tfoot>
+          </table>          
+        </td></tr>
+      <tr><td>Alternative flow: </td><td>There must not be any contradiction.</td></tr>
+      <tr><td>Postconditions</td><td>The customer invoices are delivered to the accounting assistant.</td></tr>
     </tbody>
     <tfoot>
     </tfoot>
@@ -232,11 +242,11 @@ The person who interacts directly with the product will be the accounting assist
       <tr><td>Name: </td><td>Enter the invoices in the system.</td></tr>
       <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
       <tr><td>Date: </td><td>4/27/19</td></tr>
-      <tr><td>Brief Description: </td><td></td></tr>
-      <tr><td>Preconditions: </td><td></td></tr>
+      <tr><td>Brief Description: </td><td>The accounting assistant must enter the data of each invoice in the credit system.</td></tr>
+      <tr><td>Preconditions: </td><td>The accounting assistant must have the invoices in order.</td></tr>
       <tr><td>Normal Flow: </td><td></td></tr>
       <tr><td>Alternative flow: </td><td> </td></tr>
-  <tr><td>Postconditions</td><td></td></tr>
+      <tr><td>Postconditions: </td><td>It should be checked if the client exceeded the credit limit.</td></tr>
     </tbody>
     <tfoot>
     </tfoot>
