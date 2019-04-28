@@ -89,29 +89,142 @@ The person who interacts directly with the product will be the accounting assist
    
    <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case1.jpg" height=50% width=50%></img></p>
    
+   <table>
+    <thead></thead>
+    <tbody>
+      <tr><td>Name: </td><td>Collect customer data.</td></tr>
+      <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
+      <tr><td>Date: </td><td>4/27/19</td></tr>
+      <tr><td>Brief Description: </td><td></td></tr>
+      <tr><td>Preconditions: </td><td></td></tr>
+      <tr><td>Normal Flow: </td><td></td></tr>
+      <tr><td>Alternative flow: </td><td> </td></tr>
+  <tr><td>Postconditions</td><td></td></tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
+   
    ### Specific use case 2
    
    <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case2.jpg" height=50% width=50%></img></p>
+   
+   <table>
+    <thead></thead>
+    <tbody>
+      <tr><td>Name: </td><td>Defines the customer's credit limit.</td></tr>
+      <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
+      <tr><td>Date: </td><td>4/27/19</td></tr>
+      <tr><td>Brief Description: </td><td></td></tr>
+      <tr><td>Preconditions: </td><td></td></tr>
+      <tr><td>Normal Flow: </td><td></td></tr>
+      <tr><td>Alternative flow: </td><td> </td></tr>
+  <tr><td>Postconditions</td><td></td></tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
    
    ### Specific use case 3
    
    <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case3.jpg" height=50% width=50%></img></p>
    
+   
+   <table>
+    <thead></thead>
+    <tbody>
+      <tr><td>Name: </td><td>Know your credit limit.</td></tr>
+      <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
+      <tr><td>Date: </td><td>4/27/19</td></tr>
+      <tr><td>Brief Description: </td><td></td></tr>
+      <tr><td>Preconditions: </td><td></td></tr>
+      <tr><td>Normal Flow: </td><td></td></tr>
+      <tr><td>Alternative flow: </td><td> </td></tr>
+  <tr><td>Postconditions</td><td></td></tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
+  
    ### Specific use case 4
    
    <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case4.jpg" height=50% width=50%></img></p>
+   
+   <table>
+    <thead></thead>
+    <tbody>
+      <tr><td>Name: </td><td>Collect customer invoices.</td></tr>
+      <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
+      <tr><td>Date: </td><td>4/27/19</td></tr>
+      <tr><td>Brief Description: </td><td></td></tr>
+      <tr><td>Preconditions: </td><td></td></tr>
+      <tr><td>Normal Flow: </td><td></td></tr>
+      <tr><td>Alternative flow: </td><td> </td></tr>
+  <tr><td>Postconditions</td><td></td></tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
    
    ### Specific use case 5
    
    <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case5.jpg" height=50% width=50%></img></p>
    
+   <table>
+    <thead></thead>
+    <tbody>
+      <tr><td>Name: </td><td>Enter the invoices in the system.</td></tr>
+      <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
+      <tr><td>Date: </td><td>4/27/19</td></tr>
+      <tr><td>Brief Description: </td><td></td></tr>
+      <tr><td>Preconditions: </td><td></td></tr>
+      <tr><td>Normal Flow: </td><td></td></tr>
+      <tr><td>Alternative flow: </td><td> </td></tr>
+  <tr><td>Postconditions</td><td></td></tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
+   
    ### Specific use case 6
    
    <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case6.jpg" height=50% width=50%></img></p>
    
+   <table>
+    <thead></thead>
+    <tbody>
+      <tr><td>Name: </td><td Send the final report.></td></tr>
+      <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
+      <tr><td>Date: </td><td>4/27/19</td></tr>
+      <tr><td>Brief Description: </td><td></td></tr>
+      <tr><td>Preconditions: </td><td></td></tr>
+      <tr><td>Normal Flow: </td><td></td></tr>
+      <tr><td>Alternative flow: </td><td> </td></tr>
+  <tr><td>Postconditions</td><td></td></tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
+   
    ### Specific use case 7
    
    <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case7.jpg" height=50% width=50%></img></p>
+   
+   <table>
+    <thead></thead>
+    <tbody>
+      <tr><td>Name: </td><td>Receives final report</td></tr>
+      <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
+      <tr><td>Date: </td><td>4/27/19</td></tr>
+      <tr><td>Brief Description: </td><td></td></tr>
+      <tr><td>Preconditions: </td><td></td></tr>
+      <tr><td>Normal Flow: </td><td></td></tr>
+      <tr><td>Alternative flow: </td><td> </td></tr>
+  <tr><td>Postconditions</td><td></td></tr>
+    </tbody>
+    <tfoot>
+    </tfoot>
+  </table>
     
 
   ## User Characteristics
@@ -197,13 +310,13 @@ Programmed in the java programming language to be portable in the machines.
   - [Product Functions](#Product-Functions)
   - [Functional Requirements Specification](#Functional-Requirements-Specification)
    - [Use Case: General](#Use-Case-:-General)
-    - [Specific use case 1](#Specific-use-case-1)
-    - [Specific use case 2](#Specific-use-case-2)
-    - [Specific use case 3](#Specific-use-case-3)
-    - [Specific use case 4](#Specific-use-case-4)
-    - [Specific use case 4](#Specific-use-case-5)
-    - [Specific use case 6](#Specific-use-case-6)
-    - [Specific use case 7](#Specific-use-case-7)
+     - [Specific use case 1](#Specific-use-case-1)
+     - [Specific use case 2](#Specific-use-case-2)
+     - [Specific use case 3](#Specific-use-case-3)
+     - [Specific use case 4](#Specific-use-case-4)
+     - [Specific use case 4](#Specific-use-case-5)
+     - [Specific use case 6](#Specific-use-case-6)
+     - [Specific use case 7](#Specific-use-case-7)
   - [User Characteristics](#User-Characteristics)
   - [Contraints](#Constraints)
   - [Assumptions and dependencies](#Assumptions-and-dependencies)
