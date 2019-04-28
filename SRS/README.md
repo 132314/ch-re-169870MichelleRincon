@@ -151,7 +151,7 @@ The person who interacts directly with the product will be the accounting assist
             <table>
                 <thead></thead>
                 <tbody>
-                  <tr><td>**ONLY** the main accountant can define credit limit.</td></tr>
+                  <tr><td><b>ONLY</b> the main accountant can define credit limit.</td></tr>
                 </tbody>
                 <tfoot></tfoot>
               </table>
