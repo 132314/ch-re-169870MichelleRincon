@@ -95,14 +95,32 @@ The person who interacts directly with the product will be the accounting assist
       <tr><td>Name: </td><td>Collect customer data.</td></tr>
       <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
       <tr><td>Date: </td><td>4/27/19</td></tr>
-      <tr><td>Brief Description: </td><td></td></tr>
-      <tr><td>Preconditions: </td><td></td></tr>
-      <tr><td>Normal Flow: </td><td></td></tr>
-      <tr><td>Alternative flow: </td><td> </td></tr>
-  <tr><td>Postconditions</td><td></td></tr>
+      <tr><td>Brief Description: </td><td>The main accountant has to do the necessary data collection so that the client can start making large purchases within the business.</td></tr>
+      <tr><td>Preconditions: </td><td>The client must be interested in using the store to stock up.</td></tr>
+      <tr><td>Normal Flow: </td>
+        <td>
+          <table align = "center">
+              <thead></thead>
+              <tbody>
+                <tr><td>The main counter collects data from the client, such as: recommendations, credit bureau, etc.</td></tr>
+                <tr><td>Put the data in order</td></tr>
+              </tbody>
+              <tfoot></tfoot>
+            </table>
+       </td></tr>
+      <tr><td>Alternative flow: </td>
+        <td> 
+          <table align = "center">
+              <thead></thead>
+              <tbody>
+                <tr><td>If the main accountant is not available, the person in charge of collecting the data is the accounting assistant.</td></tr>
+              </tbody>
+              <tfoot></tfoot>
+            </table>
+        </td></tr>
+      <tr><td>Postconditions</td><td>All data must be in order and not miss any.</td></tr>
     </tbody>
-    <tfoot>
-    </tfoot>
+    <tfoot></tfoot>
   </table>
    
    ### Specific use case 2
@@ -119,7 +137,7 @@ The person who interacts directly with the product will be the accounting assist
       <tr><td>Preconditions: </td><td></td></tr>
       <tr><td>Normal Flow: </td><td></td></tr>
       <tr><td>Alternative flow: </td><td> </td></tr>
-  <tr><td>Postconditions</td><td></td></tr>
+      <tr><td>Postconditions</td><td></td></tr>
     </tbody>
     <tfoot>
     </tfoot>
