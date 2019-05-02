@@ -398,6 +398,6 @@ Programmed in the java programming language to be portable in the machines.
 - [Supporting Information](#Supporting-Information)
   - [Table of contents and index](#Table-of-contents-and-index)
   - [Appendixes](#Appendixes)
-  - [Elicitation Process](#Elicitation-Process)
+    - [Elicitation Process](#Elicitation-Process)
  ## Appendixes
   ### Elicitation Process
