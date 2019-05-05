@@ -416,4 +416,7 @@ During the interview the accounting assistant gave a list of requirements with w
 * When I finish billing every month, I have to deliver a report to my boss and the client so he is aware of the purchases I make, so it would be fine if I also have the option to print so I do not have to do it anymore. other side.
 
 * It does not necessarily have to be nice because I will only use it, but I need it to be neat and clean so that all my work is easier "
+
+
+After what the accounting assistant mentioned that he wanted in the system it was concluded that in summary what is desired and expected is that it has a CRUD process (Create, Read, Update, Delete) to manage the data that he has you want Similarly an extra section (button) that is responsible for printing the table of monthly purchases that had a specific customer for later this be delivered to their superior and the respective customer. Although a detailed visual application is not expected, it is possible to proceed through a basic and neutral interface, as long as the CRUD processes are present.
   
