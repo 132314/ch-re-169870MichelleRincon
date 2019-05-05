@@ -401,3 +401,19 @@ Programmed in the java programming language to be portable in the machines.
     - [Elicitation Process](#Elicitation-Process)
  ## Appendixes
   ### Elicitation Process
+   <b>Description:</b> 
+   It was carried out through an interview with the person who is directly involved with the desired System, the accounting assistant.
+
+During the interview the accounting assistant gave a list of requirements with which he wanted the system to count:
+
+"I want the System that is made to carry out these operations:
+* Give me the option to change or delete if I am wrong to enter an invoice.
+
+* Have an initial knowledge of what is the credit limit of each one of the clients that we have, and that also allows us to update that data if more Adelante is necessary.
+
+* Since the System must already know the credit limit, I would like it to stop allowing me to enter more invoices if the client has already passed, since I usually do not realize until I finish with everything and that takes time away.
+
+* When I finish billing every month, I have to deliver a report to my boss and the client so he is aware of the purchases I make, so it would be fine if I also have the option to print so I do not have to do it anymore. other side.
+
+* It does not necessarily have to be nice because I will only use it, but I need it to be neat and clean so that all my work is easier "
+  
