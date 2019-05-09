@@ -244,8 +244,27 @@ The person who interacts directly with the product will be the accounting assist
       <tr><td>Date: </td><td>4/27/19</td></tr>
       <tr><td>Brief Description: </td><td>The accounting assistant must enter the data of each invoice in the credit system.</td></tr>
       <tr><td>Preconditions: </td><td>The accounting assistant must have the invoices in order.</td></tr>
-      <tr><td>Normal Flow: </td><td></td></tr>
-      <tr><td>Alternative flow: </td><td> </td></tr>
+      <tr><td>Normal Flow: </td>
+        <td>
+            <table>
+              <thead></thead>
+              <tbody>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>
+              </tbody>
+              <tfoot></tfoot>
+            </table>
+        </td></tr>
+      <tr><td>Alternative flow: </td><td>
+            <table>
+              <thead></thead>
+              <tbody>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>
+              </tbody>
+              <tfoot></tfoot>
+            </table>
+        </td></tr>
       <tr><td>Postconditions: </td><td>It should be checked if the client exceeded the credit limit.</td></tr>
     </tbody>
     <tfoot>
@@ -259,13 +278,31 @@ The person who interacts directly with the product will be the accounting assist
    <table>
     <thead></thead>
     <tbody>
-      <tr><td>Name: </td><td Send the final report.></td></tr>
+      <tr><td>Name: </td><td>Send the final report.</td></tr>
       <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
       <tr><td>Date: </td><td>4/27/19</td></tr>
       <tr><td>Brief Description: </td><td></td></tr>
-      <tr><td>Preconditions: </td><td></td></tr>
-      <tr><td>Normal Flow: </td><td></td></tr>
-      <tr><td>Alternative flow: </td><td> </td></tr>
+      <tr><td>Preconditions: </td><td>The accounting assitant enters all invoices per customer in the system.</td></tr>
+      <tr><td>Normal Flow: </td><td>
+            <table>
+              <thead></thead>
+              <tbody>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>
+              </tbody>
+              <tfoot></tfoot>
+            </table>
+        </td></tr>
+      <tr><td>Alternative flow: </td><td>
+            <table>
+              <thead></thead>
+              <tbody>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>
+              </tbody>
+              <tfoot></tfoot>
+            </table>
+        </td></tr>
   <tr><td>Postconditions</td><td></td></tr>
     </tbody>
     <tfoot>
@@ -283,9 +320,27 @@ The person who interacts directly with the product will be the accounting assist
       <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
       <tr><td>Date: </td><td>4/27/19</td></tr>
       <tr><td>Brief Description: </td><td></td></tr>
-      <tr><td>Preconditions: </td><td></td></tr>
-      <tr><td>Normal Flow: </td><td></td></tr>
-      <tr><td>Alternative flow: </td><td> </td></tr>
+      <tr><td>Preconditions: </td><td>The accounting assistant sends the final report to the main counter and the customer.</td></tr>
+      <tr><td>Normal Flow: </td><td>
+            <table>
+              <thead></thead>
+              <tbody>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>
+              </tbody>
+              <tfoot></tfoot>
+            </table>
+        </td></tr>
+      <tr><td>Alternative flow: </td><td>
+            <table>
+              <thead></thead>
+              <tbody>
+                <tr><td> </td></tr>
+                <tr><td> </td></tr>
+              </tbody>
+              <tfoot></tfoot>
+            </table>
+        </td></tr>
   <tr><td>Postconditions</td><td></td></tr>
     </tbody>
     <tfoot>
