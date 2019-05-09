@@ -478,3 +478,5 @@ After what the accounting assistant mentioned that he wanted in the system it wa
 
    ### Bussines Process Diagram
    https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/tree/master/SRS/BPM
+   
+   <img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/bmp.jpg" border="1" alt="Bussines Process Diagram" width="120%" height="120%">
