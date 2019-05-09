@@ -30,8 +30,8 @@ The person who interacts directly with the product will be the accounting assist
   **Invoice**: "*is a document submitted to a customer, identifying a transaction for which the customer owes payment to the issuer. This document represents an asset of the issuer and a liability of the customer*".
   
   ## References
-  * https://personal.hsbc.co.uk/credit-cards/what-is-a-credit-limit/
-  * https://www.accountingtools.com/articles/2017/5/10/invoice
+  * hsbc. (2012-2019). What is a credit limit?. 04/04/19, de HSBC UK Sitio web: https://personal.hsbc.co.uk/credit-cards/what-is-a-credit-limit/
+  * Accounting Tools. (2019). Invoice. 04/04/19, de Accounting Tools Sitio web: https://www.accountingtools.com/articles/2017/5/10/invoice
   
   ## Overview
 # Overall Description
