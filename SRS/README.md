@@ -399,6 +399,7 @@ Programmed in the java programming language to be portable in the machines.
   - [Table of contents and index](#Table-of-contents-and-index)
   - [Appendixes](#Appendixes)
     - [Elicitation Process](#Elicitation-Process)
+    - [Bussines Process Diagram](#Bussines-Process-Diagram)
  ## Appendixes
   ### Elicitation Process
    <b>Description:</b> 
@@ -419,4 +420,6 @@ During the interview the accounting assistant gave a list of requirements with w
 
 
 After what the accounting assistant mentioned that he wanted in the system it was concluded that in summary what is desired and expected is that it has a CRUD process (Create, Read, Update, Delete) to manage the data that he has you want Similarly an extra section (button) that is responsible for printing the table of monthly purchases that had a specific customer for later this be delivered to their superior and the respective customer. Although a detailed visual application is not expected, it is possible to proceed through a basic and neutral interface, as long as the CRUD processes are present.
-  
+
+   ### Bussines Process Diagram
+   https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/tree/master/SRS/BPM
