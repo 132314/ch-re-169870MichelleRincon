@@ -79,7 +79,7 @@ The person who interacts directly with the product will be the accounting assist
   
   ## Functional Requirements Specification
    ### General Use Case 
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/General%20Use%20Case.jpg" height=80% width=80%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/general.jpg" height=80% width=80%></img></p>
    
    <table>
     <caption></caption>
