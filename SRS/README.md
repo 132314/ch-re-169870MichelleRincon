@@ -455,6 +455,9 @@ Programmed in the java programming language to be portable in the machines.
   - [Appendixes](#Appendixes)
     - [Elicitation Process](#Elicitation-Process)
       - [Bussines Process Diagram](#Bussines-Process-Diagram)
+        - [BPM Description](#BPM-Description)
+        
+      
  ## Appendixes
   ### Elicitation Process
    <b>Description:</b> 
@@ -481,11 +484,11 @@ After what the accounting assistant mentioned that he wanted in the system it wa
    
    Bussines Process General
    
-   <img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/bmp.jpg" border="1" alt="Bussines Process Diagram" width="130%" height="130%">
+   <img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/bmp.jpg" border="1" alt="Bussines Process Diagram" width="140%" height="140%">
   
    Subprocess 1: Create Customer
 
-<img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/bmp_subprocess1.jpg" border="1" alt="Bussines Process Diagram" width="120%" height="120%">
+<img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/bmp_subprocess1.jpg" border="1" alt="Bussines Process Diagram" width="130%" height="130%">
 
   Subprocess 2: Select Product
 
