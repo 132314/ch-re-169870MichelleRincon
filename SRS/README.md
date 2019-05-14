@@ -11,7 +11,43 @@
   <h3 align="center">Development of Software Requirements</h3>
   <h3 align="center">April 2019</h3>
   
-  
+   # Table of contents and index
+ 
+ - [Table of contents and index](#Table-of-contents-and-index)
+ - [Introduction](#Introduction)
+  - [Purpose](#Purpose)
+  - [Scope](#Scope)
+  - [Definitions, acronymus, and abbreviations](#Definitions,-acronymus,-and-abbreviations)
+  - [References](#References)
+  - [Overview](#Overview)
+- [Overall Description](#Overall-Description)
+  - [Product Perspective](#Product-Perspective)
+  - [Product Functions](#Product-Functions)
+  - [Functional Requirements Specification](#Functional-Requirements-Specification)
+     - [General Use Case ](#General-Use-Case)
+     - [Specific use case 1](#Specific-use-case-1)
+     - [Specific use case 2](#Specific-use-case-2)
+     - [Specific use case 3](#Specific-use-case-3)
+     - [Specific use case 4](#Specific-use-case-4)
+     - [Specific use case 4](#Specific-use-case-5)
+     - [Specific use case 6](#Specific-use-case-6)
+     - [Specific use case 7](#Specific-use-case-7)
+  - [User Characteristics](#User-Characteristics)
+  - [Contraints](#Constraints)
+  - [Assumptions and dependencies](#Assumptions-and-dependencies)
+- [Sistem requirements](#Sistem-requirements)
+  - [External Interfaces](#External-Interfaces)
+  - [Functions](#Functions)
+  - [Performance requirements](#Performance-requirements)
+  - [Logical database requirements](#Logical-database-requirements)
+  - [Design constraints](#Design-constraints)
+  - [Software system attributes](#Software-system-attributes)
+- [Non functional requirements](#Non-functional-requirements)
+- [Supporting Information](#Supporting-Information)
+  - [Appendixes](#Appendixes)
+    - [Elicitation Process](#Elicitation-Process)
+      - [Bussines Process Diagram](#Bussines-Process-Diagram)
+        - [BPM Description](#BPM-Description)
   
 # Introduction
   ## Purpose
@@ -375,7 +411,7 @@ The person who interacts directly with the product will be the accounting assist
 | AS-2| The final interface will be a desktop application for computer.|
 | DE-1| Electricity for final device.|
 
-# Specific requirements
+# Sistem requirements
   ## External Interfaces
   The ***Credit*** system has the purpose of alerting, by means of a message, when a client exceeds its credit limit. *Credit* is connected to a database in which the invoices of each client are stored and in turn gives the option to print or send the entered data. It is taken into account that each client has a credit limit of $ 300,000 Mexican pesos.
 
@@ -415,49 +451,10 @@ It is intended to link the client table with a ***product table*** in which the 
   Use of the Spanish language
 Use of a Windows operating system.
 Programmed in the java programming language to be portable in the machines.
-  
-  ## Organizing the specific requirements
-  ## Additional comments
-# Supporting Information
-  ## Table of contents and index
- - [Introduction](#Introduction)
-  - [Purpose](#Purpose)
-  - [Scope](#Scope)
-  - [Definitions, acronymus, and abbreviations](#Definitions,-acronymus,-and-abbreviations)
-  - [References](#References)
-  - [Overview](#Overview)
-- [Overall Description](#Overall-Description)
-  - [Product Perspective](#Product-Perspective)
-  - [Product Functions](#Product-Functions)
-  - [Functional Requirements Specification](#Functional-Requirements-Specification)
-     - [General Use Case ](#General-Use-Case)
-     - [Specific use case 1](#Specific-use-case-1)
-     - [Specific use case 2](#Specific-use-case-2)
-     - [Specific use case 3](#Specific-use-case-3)
-     - [Specific use case 4](#Specific-use-case-4)
-     - [Specific use case 4](#Specific-use-case-5)
-     - [Specific use case 6](#Specific-use-case-6)
-     - [Specific use case 7](#Specific-use-case-7)
-  - [User Characteristics](#User-Characteristics)
-  - [Contraints](#Constraints)
-  - [Assumptions and dependencies](#Assumptions-and-dependencies)
-- [Specific requirements](#Specific-requirements)
-  - [External Interfaces](#External-Interfaces)
-  - [Functions](#Functions)
-  - [Performance requirements](#Performance-requirements)
-  - [Logical database requirements](#Logical-database-requirements)
-  - [Design constraints](#Design-constraints)
-  - [Software system attributes](#Software-system-attributes)
-  - [Organizing the specific requirements](#Organizing-the-specific-requirements)
-  - [Additional comments](#Additional-comments)
-- [Supporting Information](#Supporting-Information)
-  - [Table of contents and index](#Table-of-contents-and-index)
-  - [Appendixes](#Appendixes)
-    - [Elicitation Process](#Elicitation-Process)
-      - [Bussines Process Diagram](#Bussines-Process-Diagram)
-        - [BPM Description](#BPM-Description)
-        
-      
+
+# Non functional requirements
+
+# Supporting Information       
  ## Appendixes
   ### Elicitation Process
    <b>Description:</b> 
