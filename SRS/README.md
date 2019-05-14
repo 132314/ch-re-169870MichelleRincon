@@ -484,3 +484,10 @@ After what the accounting assistant mentioned that he wanted in the system it wa
 <img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/bmp_subprocess1.jpg" border="1" alt="Bussines Process Diagram" width="120%" height="120%">
 
 <img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/bmp_subprocess2.jpg" border="1" alt="Bussines Process Diagram" width="120%" height="120%">
+
+  ##### BPM Description
+  The process start with the actor customer, first, the customer need to be create, for this, the following subprocess is needed:
+  
+  * Subprocess 1: First, collect general customer information (for example, Name, RFC, Contact Phone, credit burean, etc.). Second, Create Id per customer, this need to be unique because is a number of identification. Third, define a credit limit, It's 300,000 Mexican pesos per Customer, but this information can change.
+  
+  
