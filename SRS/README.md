@@ -489,11 +489,11 @@ After what the accounting assistant mentioned that he wanted in the system it wa
 
   Subprocess 2: Select Product
 
-<img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/bmp_subprocess2.jpg" border="1" alt="Bussines Process Diagram" width="110%" height="110%">
+<img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/bmp_subprocess2.jpg" border="1" alt="Bussines Process Diagram" width="100%" height="100%">
 
   Subprocess 3: Capture invoice
   
-  <img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/subprocess3.jpg" border="1" alt="Bussines Process Diagram" width="110%" height="110%">
+  <img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/subprocess3.jpg" border="1" alt="Bussines Process Diagram" width="130%" height="130%">
 
   ##### BPM Description
   The process start with the actor customer, first, the customer need to be create, for this, the following subprocess is needed:
