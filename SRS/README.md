@@ -481,7 +481,7 @@ After what the accounting assistant mentioned that he wanted in the system it wa
    
    Bussines Process General
    
-   <img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/processgeneral.jpg" border="1" alt="Bussines Process Diagram" width="140%" height="140%">
+   <img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/processgeneral.jpg" border="1" alt="Bussines Process Diagram" width="160%" height="160%">
   
    Subprocess 1: Create Customer
 
