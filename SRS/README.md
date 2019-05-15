@@ -500,4 +500,16 @@ After what the accounting assistant mentioned that he wanted in the system it wa
   
   * Subprocess 1: First, collect general customer information (for example, Name, RFC, Contact Phone, credit burean, etc.). Second, Create Id per customer, this need to be unique because is a number of identification. Third, define a credit limit, It's 300,000 Mexican pesos per Customer, but this information can change.
   
+  Then, the client already created has to select a product, which is previously created in subprocess 2:
   
+ * Subprocess 2: First, collect general information (For example, Name, Price per kilo and price per piece). Finally, create Id per product.
+ 
+ After, the customer makes the purchases and *creates an invoice*. Once the invoices were created, they are *received* by the accounting assistant who is in charge of *capturing* each of the invoices in the system, subprocess 3.
+ 
+ * Subprocess 3: first, the id of the client is captured, second, the id of the product is captured, third, the id of the invoice is captured and finally, total payment is captured.
+ 
+ Before being captured, the assistant checks if the purchase is within the client's credit limit (the limit may be 300,000 Mexican pesos, but may change). If it is within the limit, the invoice can be entered into the system, if not, a warning message is sent to the client and once this has been received, the invoice will not be entered into the system. 
+ 
+ The process continues until the last day of the month arrives, that day the accounting assistant sends a final report by client to the main accountant, at this moment the invoice has been *completed*.
+  
+Finally, after the main accountant receives the final report, hacienda receives the monthly tax payment.  
