@@ -43,6 +43,10 @@
   - [Design constraints](#Design-constraints)
   - [Software system attributes](#Software-system-attributes)
 - [Non functional requirements](#Non-functional-requirements)
+  - [Efficiency](#Efficiency)
+  - [Logical and data security](#Logical-and-data-security)
+  - [Usability](#Usability)
+  - [Security](#Security)
 - [Supporting Information](#Supporting-Information)
   - [Appendixes](#Appendixes)
     - [Elicitation Process](#Elicitation-Process)
@@ -449,11 +453,23 @@ It is intended to link the client table with a ***product table*** in which the 
   
   ## Software system attributes
   Use of the Spanish language
-Use of a Windows operating system.
-Programmed in the java programming language to be portable in the machines.
+  Use of a Windows operating system.
+  Programmed in the java programming language to be portable in the machines.
 
 # Non functional requirements
-
+  ### Efficiency: 
+   * The data modified in the database must be updated for all users who access in less than 2 seconds.
+  ### Logical and data security
+   * All system records must be backed up every 24 hours.
+   * The access permissions to the system may only be changed by the data access administrator.
+  ### Usability
+   * The system must have user manuals.
+   * The system must have graphical interfaces.
+   * The learning time of the system by a user must be less than 2 hours.
+   * The system must handle alphabet fonts in English and Spanish-Latin.
+  ### Security
+   * The system must include a login procedure.
+    
 # Supporting Information       
  ## Appendixes
   ### Elicitation Process
