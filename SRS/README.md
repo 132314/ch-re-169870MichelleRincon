@@ -288,22 +288,14 @@ The person who interacts directly with the product will be the accounting assist
             <table>
               <thead></thead>
               <tbody>
-                <tr><td> </td></tr>
-                <tr><td> </td></tr>
+                <tr><td>First, invoices are organized by date and by customer.</td></tr>
+                <tr><td>Then, they are entered one by one into the system.
+The system is checking simultaneously that the credit limit of each client is not exceeded.</td></tr>
               </tbody>
               <tfoot></tfoot>
             </table>
         </td></tr>
-      <tr><td>Alternative flow: </td><td>
-            <table>
-              <thead></thead>
-              <tbody>
-                <tr><td> </td></tr>
-                <tr><td> </td></tr>
-              </tbody>
-              <tfoot></tfoot>
-            </table>
-        </td></tr>
+      <tr><td>Alternative flow: </td><td>There is no alternative.</td></tr>
       <tr><td>Postconditions: </td><td>It should be checked if the client exceeded the credit limit.</td></tr>
     </tbody>
     <tfoot>
