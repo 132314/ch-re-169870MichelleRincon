@@ -126,7 +126,7 @@ The person who interacts directly with the product will be the accounting assist
   
    ### Specific use case 1
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case1.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case1.jpg" height=100% width=100%></img></p>
    
    <table>
     <thead></thead>
@@ -164,7 +164,7 @@ The person who interacts directly with the product will be the accounting assist
    
    ### Specific use case 2
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case2.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case2.jpg" height=100% width=100%></img></p>
    
    <table>
     <thead></thead>
@@ -202,7 +202,7 @@ The person who interacts directly with the product will be the accounting assist
    
    ### Specific use case 3
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case3.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case3.jpg" height=100% width=100%></img></p>
    
    
    <table>
@@ -243,7 +243,7 @@ The person who interacts directly with the product will be the accounting assist
   
    ### Specific use case 4
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case4.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case4.jpg" height=120% width=120%></img></p>
    
    <table>
     <thead></thead>
@@ -273,7 +273,7 @@ The person who interacts directly with the product will be the accounting assist
    
    ### Specific use case 5
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case5.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case5.jpg" height=120% width=120%></img></p>
    
    <table>
     <thead></thead>
@@ -312,7 +312,7 @@ The person who interacts directly with the product will be the accounting assist
    
    ### Specific use case 6
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case6.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case6.jpg" height=100% width=100%></img></p>
    
    <table>
     <thead></thead>
