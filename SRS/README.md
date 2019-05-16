@@ -68,9 +68,18 @@ The person who interacts directly with the product will be the accounting assist
   
   **Invoice**: "*is a document submitted to a customer, identifying a transaction for which the customer owes payment to the issuer. This document represents an asset of the issuer and a liability of the customer*".
   
+  **Database**: "*A database is an organized collection of structured information, or data, typically stored electronically in a computer system*".
+  
+  **Usability**: "*Usability is part of the broader term “user experience” and refers to the ease of access and/or use of a product or website. A design is not usable or unusable per se; its features, together with the context of the user (what the user wants to do with it and the user’s environment), determine its level of usability*".
+  
+  **Business process diagram**: "*Business Process Model and Notation (BPMN) is a graphical representation for designing and modeling business processes visually. It is a standard for business process modeling and provides a graphical notation for specifying business processes in a Business Process Diagram (BPD).*".
+
   ## References
-  * hsbc. (2012-2019). What is a credit limit?. 04/04/19, de HSBC UK Sitio web: https://personal.hsbc.co.uk/credit-cards/what-is-a-credit-limit/
   * Accounting Tools. (2019). Invoice. 04/04/19, de Accounting Tools Sitio web: https://www.accountingtools.com/articles/2017/5/10/invoice
+  * hsbc. (2012-2019). What is a credit limit?. 04/04/19, de HSBC UK Sitio web: https://personal.hsbc.co.uk/credit-cards/what-is-a-credit-limit/
+  * Oracle.com. (2019). What is a database?. [online] Available at: https://www.oracle.com/database/what-is-database.html [Accessed 16 May 2019].
+  * The Interaction Design Foundation. (2019). What is Usability?. [online] Available at: https://www.interaction-design.org/literature/topics/usability [Accessed 16 May 2019].
+  * Visual-paradigm.com. (2019). Drawing BPMN Business Process Diagram. [online] Available at: https://www.visual-paradigm.com/support/documents/vpuserguide/2821/286/7114_drawingbusin.html [Accessed 16 May 2019].
   
   ## Overview
 # Overall Description
