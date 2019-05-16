@@ -29,9 +29,8 @@
      - [Specific use case 2](#Specific-use-case-2)
      - [Specific use case 3](#Specific-use-case-3)
      - [Specific use case 4](#Specific-use-case-4)
-     - [Specific use case 4](#Specific-use-case-5)
+     - [Specific use case 5](#Specific-use-case-5)
      - [Specific use case 6](#Specific-use-case-6)
-     - [Specific use case 7](#Specific-use-case-7)
   - [User Characteristics](#User-Characteristics)
   - [Contraints](#Constraints)
   - [Assumptions and dependencies](#Assumptions-and-dependencies)
@@ -127,7 +126,7 @@ The person who interacts directly with the product will be the accounting assist
   
    ### Specific use case 1
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case1.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case1.jpg" height=50% width=50%></img></p>
    
    <table>
     <thead></thead>
@@ -165,7 +164,7 @@ The person who interacts directly with the product will be the accounting assist
    
    ### Specific use case 2
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case2.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case2.jpg" height=50% width=50%></img></p>
    
    <table>
     <thead></thead>
@@ -203,7 +202,7 @@ The person who interacts directly with the product will be the accounting assist
    
    ### Specific use case 3
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case3.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case3.jpg" height=50% width=50%></img></p>
    
    
    <table>
@@ -244,7 +243,7 @@ The person who interacts directly with the product will be the accounting assist
   
    ### Specific use case 4
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case4.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case4.jpg" height=50% width=50%></img></p>
    
    <table>
     <thead></thead>
@@ -274,7 +273,7 @@ The person who interacts directly with the product will be the accounting assist
    
    ### Specific use case 5
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case5.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case5.jpg" height=50% width=50%></img></p>
    
    <table>
     <thead></thead>
@@ -313,7 +312,7 @@ The person who interacts directly with the product will be the accounting assist
    
    ### Specific use case 6
    
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case6.jpg" height=50% width=50%></img></p>
+   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20Case/case6.jpg" height=50% width=50%></img></p>
    
    <table>
     <thead></thead>
@@ -321,73 +320,26 @@ The person who interacts directly with the product will be the accounting assist
       <tr><td>Name: </td><td>Send the final report.</td></tr>
       <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
       <tr><td>Date: </td><td>4/27/19</td></tr>
-      <tr><td>Brief Description: </td><td></td></tr>
+      <tr><td>Brief Description: </td><td>After collecting the invoices and putting them into the system, the accounting assistant must send a final report to the client and the main accountant.</td></tr>
       <tr><td>Preconditions: </td><td>The accounting assitant enters all invoices per customer in the system.</td></tr>
       <tr><td>Normal Flow: </td><td>
             <table>
               <thead></thead>
               <tbody>
-                <tr><td> </td></tr>
-                <tr><td> </td></tr>
+                <tr><td>The accounting assistant prepares invoices by customer.</td></tr>
+                <tr><td>The final report is sent to the client and the main accountant so that they have knowledge of the information.</td></tr>
+                <tr><td>To be sent, it must be the last day of the month.</td></tr>                
               </tbody>
               <tfoot></tfoot>
             </table>
         </td></tr>
-      <tr><td>Alternative flow: </td><td>
-            <table>
-              <thead></thead>
-              <tbody>
-                <tr><td> </td></tr>
-                <tr><td> </td></tr>
-              </tbody>
-              <tfoot></tfoot>
-            </table>
-        </td></tr>
-  <tr><td>Postconditions</td><td></td></tr>
+      <tr><td>Alternative flow: </td><td>There are no alternatives.</td></tr>
+  <tr><td>Postconditions: </td><td>The accounting assistant sends the final report to the main counter and the customer.</td></tr>
     </tbody>
     <tfoot>
     </tfoot>
   </table>
    
-   ### Specific use case 7
-   
-   <p align="center"><img src="https://github.com/RequirementEngineering/ch-re-169870MichelleRincon/blob/master/SRS/Images/Use%20case7.jpg" height=50% width=50%></img></p>
-   
-   <table>
-    <thead></thead>
-    <tbody>
-      <tr><td>Name: </td><td>Receives final report</td></tr>
-      <tr><td>Author: </td><td>Tanya Michelle Rincon Tarango</td></tr>
-      <tr><td>Date: </td><td>4/27/19</td></tr>
-      <tr><td>Brief Description: </td><td></td></tr>
-      <tr><td>Preconditions: </td><td>The accounting assistant sends the final report to the main counter and the customer.</td></tr>
-      <tr><td>Normal Flow: </td><td>
-            <table>
-              <thead></thead>
-              <tbody>
-                <tr><td> </td></tr>
-                <tr><td> </td></tr>
-              </tbody>
-              <tfoot></tfoot>
-            </table>
-        </td></tr>
-      <tr><td>Alternative flow: </td><td>
-            <table>
-              <thead></thead>
-              <tbody>
-                <tr><td> </td></tr>
-                <tr><td> </td></tr>
-              </tbody>
-              <tfoot></tfoot>
-            </table>
-        </td></tr>
-  <tr><td>Postconditions</td><td></td></tr>
-    </tbody>
-    <tfoot>
-    </tfoot>
-  </table>
-    
-
   ## User Characteristics
   There is only one person who interacts directly with the product, but in turn the chief accountant and each client must have knowledge through reports of the information stored in the system.
 
